@@ -1,3 +1,3 @@
 // ICI INPUT.JAVA
-//restrydbhunil;mjk;
-//rdfvgyhjk;.l`é
+
+// exemple de code ici
